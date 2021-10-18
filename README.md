@@ -2,10 +2,10 @@
 
 # Environmental Variable
 
-# for frontend
+# for backend
 
 # MONGODB_URL=mongodb://localhost:27017/accioibis-video
 
-# for backend
+# for frontend
 
 # REACT_APP_BACKEND=http://localhost:8080
